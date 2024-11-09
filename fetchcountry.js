@@ -32,3 +32,7 @@ getcountry('bharat');
 getcountry('australia');
 getcountry('rsa');
 getcountry('')
+
+function dummy(){
+    console.log("Hello World!");
+}
